@@ -6,7 +6,7 @@
 
 int main() 
 {
-	char name[]="ANUSHA";
+	char name[]="HEMANT";
 	printf("%s",name);
 	return 0;
 }
